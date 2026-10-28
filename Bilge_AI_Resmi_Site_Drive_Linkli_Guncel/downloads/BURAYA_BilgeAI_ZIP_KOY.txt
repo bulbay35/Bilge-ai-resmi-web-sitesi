@@ -1,1 +1,0 @@
-Windows indirme butonunun calismasi icin kendi BilgeAI.zip dosyanizi bu klasore koyun. Alternatif: GitHub Releases linkini index.html dosyasindaki downloads/BilgeAI.zip adresi yerine yazin.
